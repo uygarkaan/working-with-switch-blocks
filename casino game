@@ -1,0 +1,90 @@
+public class Main {
+    public static void main(String[] args) {
+        char casinoGame = 'M';
+        switch (casinoGame) {
+            case 'A':
+                System.out.println("YOU WON 1$");
+                break;
+            case 'B':
+                System.out.println("YOU WON 2$");
+                break;
+            case 'C':
+                System.out.println("YOU WON 5$");
+                break;
+            case 'D':
+                System.out.println("YOU WON 10$");
+                break;
+            case 'E':
+                System.out.println("YOU WON 20$");
+                break;
+            case 'F':
+                System.out.println("YOU WON 30$");
+                break;
+            case 'G':
+                System.out.println("YOU WON 40$");
+                break;
+            case 'H':
+                System.out.println("YOU WON 50$");
+                break;
+            case 'I':
+                System.out.println("YOU WON 100$");
+                break;
+            case 'J':
+                System.out.println("YOU WON 200$");
+                break;
+            case 'K':
+                System.out.println("YOU WON 300$");
+                break;
+            case 'L':
+                System.out.println("YOU WON 400$");
+                break;
+            case 'M':
+                System.out.println("YOU WON 500$");
+                break;
+            case 'N':
+                System.out.println("YOU WON 600$");
+                break;
+            case 'O':
+                System.out.println("YOU WON 700$");
+                break;
+            case 'P':
+                System.out.println("YOU WON 800$");
+                break;
+            case 'Q':
+                System.out.println("YOU WON 900$");
+                break;
+            case 'R':
+                System.out.println("YOU WON 1000$");
+                break;
+            case 'S':
+                System.out.println("YOU WON 2000$");
+                break;
+            case 'T':
+                System.out.println("YOU WON 3000$");
+                break;
+            case 'U':
+                System.out.println("YOU WON 4000$");
+                break;
+            case 'V':
+                System.out.println("YOU WON 5000$");
+                break;
+            case 'W':
+                System.out.println("YOU WON 6000$");
+                break;
+            case 'X':
+                System.out.println("YOU WON 7000$");
+                break;
+            case 'Y':
+                System.out.println("YOU WON 8000$");
+                break;
+            case 'Z':
+                System.out.println("YOU WON 9000$");
+                break;
+            default:
+                System.out.println("YOU WON 0$");
+                break;
+
+
+        }
+    }
+}
